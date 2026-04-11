@@ -39,17 +39,16 @@ If your filenames differ, just update the links below.
 ## Included Materials
 
 ### LaTeX Source
-- [LaTeX source file](./latex/sums_and_cubes.tex)
+- [LaTeX source file](0.11 LaTeX.tex)
 
 ### Compiled PDF
-- [PDF writeup](./latex/sums_and_cubes.pdf)
+- [PDF writeup](0.11 Solution.pdf)
 
 ### Slideshow
-- [Slide deck PDF](./slideshow/sums_and_cubes_slides.pdf)
-- [Slide deck PowerPoint](./slideshow/sums_and_cubes_slides.pptx)
+- [Slide deck PowerPoint](0.11 Slideshow.pptx)
 
 ### Video Placeholder
-- YouTube presentation link: **[PASTE YOUTUBE LINK HERE](https://www.youtube.com/)**
+- YouTube presentation link: **[YOUTUBE LINK HERE]([https://www.youtube.com/](https://youtu.be/2Oc9ijN37aA))**
 
 ---
 
