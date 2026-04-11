@@ -48,7 +48,7 @@ If your filenames differ, just update the links below.
 - [Slide deck PowerPoint](./0.11 Slideshow.pptx)
 
 ### Video Placeholder
-- YouTube presentation link: **[YOUTUBE LINK HERE](https://www.youtube.com/](https://youtu.be/2Oc9ijN37aA)**
+- YouTube presentation link: **(https://www.youtube.com/](https://youtu.be/2Oc9ijN37aA)**
 
 ---
 
