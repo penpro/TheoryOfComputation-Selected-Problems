@@ -15,39 +15,40 @@ The project also includes historical context about Gauss and a brief note on why
 
 ---
 
-## Repository Contents
+## Files in This Repository
 
-Place the files in this repository roughly like this:
+All files are stored directly in the root folder:
 
 ```text
 .
-├── README.md
-├── latex/
-│   ├── sums_and_cubes.tex
-│   └── sums_and_cubes.pdf
-├── slideshow/
-│   ├── sums_and_cubes_slides.pdf
-│   └── sums_and_cubes_slides.pptx
-└── media/
-    └── youtube-link.txt
+├── 0.11 LaTeX.tex
+├── 0.11 Slideshow.odp
+├── 0.11 Slideshow.pptx
+├── 0.11 Solution.pdf
+└── README.md
 ```
-
-If your filenames differ, just update the links below.
 
 ---
 
-## Included Materials
+## File Descriptions
 
-### LaTeX Source
-- [LaTeX source file](./0.11 LaTeX.tex)
+### `0.11 LaTeX.tex`
+The LaTeX source file for the written proof and supporting explanation.
 
-### Compiled PDF
-- [PDF writeup](./0.11 Solution.pdf)
+### `0.11 Solution.pdf`
+The compiled PDF version of the writeup.
 
-### Slideshow
-- [Slide deck PowerPoint](./0.11 Slideshow.pptx)
+### `0.11 Slideshow.odp`
+The slideshow in OpenDocument Presentation format.
 
-### Video Placeholder
+### `0.11 Slideshow.pptx`
+The slideshow in PowerPoint format.
+
+### `README.md`
+This file, which explains the contents and purpose of the repository.
+
+
+### Video
 - YouTube presentation link: **(https://www.youtube.com/](https://youtu.be/2Oc9ijN37aA)**
 
 ---
