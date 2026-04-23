@@ -49,7 +49,8 @@ This file, which explains the contents and purpose of the repository.
 
 
 ### Video
-- YouTube presentation link: **(https://www.youtube.com/](https://youtu.be/2Oc9ijN37aA)**
+- YouTube presentation one link: **(https://www.youtube.com/](https://youtu.be/2Oc9ijN37aA)**
+- YouTube presentation two link: **(https://www.youtube.com/](https://youtu.be//_tsHJSzw73o)**
 
 ---
 
